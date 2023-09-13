@@ -11,3 +11,5 @@ root.render(<App />);
 // CSS Library (free styling)
 // https://bulma.io/documentation/
 // https://bulma.io/documentation/components/card/
+// npm install bulma
+// import "bulma/css/bulma.css" in App.js;
