@@ -14,3 +14,4 @@ root.render(<App />);
 // npm install bulma
 // import "bulma/css/bulma.css" in App.js;
 // https://bulma.io/documentation/columns/basics/
+// https://bulma.io/documentation/layout/hero/
