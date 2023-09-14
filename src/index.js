@@ -13,3 +13,4 @@ root.render(<App />);
 // https://bulma.io/documentation/components/card/
 // npm install bulma
 // import "bulma/css/bulma.css" in App.js;
+// https://bulma.io/documentation/columns/basics/
